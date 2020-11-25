@@ -7,7 +7,7 @@ As the movement is calculated for each frame, the location of the model is globa
 
 ## Some GIFs to clear the mind:
 
-Too big. Here is the Linkedln ![link](https://www.linkedin.com/feed/update/urn:li:activity:6737282491654131712/) to the videos.
+Too big. Here is the Linkedln [link](https://www.linkedin.com/feed/update/urn:li:activity:6737282491654131712/) to the videos.
 
 
 
